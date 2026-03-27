@@ -1,13 +1,13 @@
 Algoritmo "Exercicio01_OlaMundo"
-// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o]
+// Disciplina   : [Linguagem e L√≥gica de Programa√ß√£o]
 // Professor   : Antonio Carlos Nicolodi 
-// DescriÁ„o   : Exibe a mensagem "Ol·, Mundo!" na tela
+// Descri√ß√£o   : Exibe a mensagem "Ol√°, Mundo!" na tela
 // Autor(a)    : Luiz Henrique Santos Aragao
 // Data atual  : 22/03/2026
+
 Var
 
-
 Inicio
-   escreva("Ol·, Mundo!")
+   escreva("Ol√°, Mundo!")
 
 Fimalgoritmo
